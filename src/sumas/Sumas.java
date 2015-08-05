@@ -5,7 +5,7 @@ public class Sumas {
 public static void main(String[] args) {
     int num1 = 5 , num2 = 3 , resta;
 double dato1 = 2, dato2 = 3;
-double suma, multiplicacion;
+double suma, multiplicacion, division;
 
 double Raíz1,Raíz2 ;
 suma = dato1 + dato2;
@@ -26,6 +26,9 @@ System.out.println("La raíz de 2 es "+Raíz1);
 System.out.println("La raíz de 3 es "+Raíz2);
 /*-------------------------------*/
 
+division = dato1 / dato2;
+
+System.out.println("la division de datos 1 & 2 es = "+ division);
 
 
     }
