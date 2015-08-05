@@ -3,7 +3,11 @@ package sumas;
 public class Sumas {
 
 public static void main(String[] args) {
-    int num1 = 5 , num2 = 3 , resta;
+// Definicion de variables del programa.
+// Programacion Orientada a Objetos FI
+    
+    
+int num1 = 5 , num2 = 3 , resta;
 double dato1 = 2, dato2 = 3;
 double suma, multiplicacion, division;
 
